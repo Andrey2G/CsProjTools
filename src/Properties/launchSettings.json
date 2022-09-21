@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CsProjTools": {
+      "commandName": "Project",
+      "commandLineArgs": "-sort --director\r\n"
+    }
+  }
+}
